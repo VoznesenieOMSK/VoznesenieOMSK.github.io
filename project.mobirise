@@ -831,7 +831,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Ему имя Чудный",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Творческий",
@@ -848,16 +848,16 @@
               },
               {
                 "tags": "Анимированный",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise202062-748402020-6-4-9-41-42.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020610-213152020-6-5-21-37-51.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=sd_Bpttj2lA&feature=share",
+                "videoUrl": "https://www.youtube.com/watch?v=9DD-6u-vHas",
                 "image": "@THEME_PATH@/components/_images/background4.jpg",
                 "thumb": "@THEME_PATH@/components/_images/background4.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "А. Патц о коронавирусе и мунтянах",
-                "active": false
+                "caption": "Мой в небе край родной",
+                "active": true
               },
               {
                 "tags": "Потрясающие",
