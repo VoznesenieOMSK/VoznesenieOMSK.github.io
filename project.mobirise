@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "voznesenieOMSK",
-    "currentPage": "Raspisanie-bogosluzhenij.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -857,20 +857,20 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Мой в небе край родной",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Потрясающие",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020530-1045482020-5-2-14-52-46.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020611-929342020-6-6-10-45-40.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=sdIQFxzse-A&feature=emb_logo",
+                "videoUrl": "https://www.youtube.com/watch?v=jnqvtYZv3NI&feature=emb_rel_end",
                 "image": "@THEME_PATH@/components/_images/background5.jpg",
                 "thumb": "@THEME_PATH@/components/_images/background5.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "История церкви",
-                "active": false
+                "caption": "Узрю Бога - СКИНИЯ//WORSHIP",
+                "active": true
               }
             ]
           }
